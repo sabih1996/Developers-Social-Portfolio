@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Sabih:hafiz498@cluster0.izmoi.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Sabih:gladiator1996@cluster0.izmoi.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
