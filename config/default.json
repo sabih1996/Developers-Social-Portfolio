@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://Sabih:JwBL9K7IccTKopTZ@cluster0.izmoi.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "9622e6cbde26ba91a74c",
+  "githubSecret": "dea6ceeba1feb38c653ee1a70d3efe43c151e09e"
 }
