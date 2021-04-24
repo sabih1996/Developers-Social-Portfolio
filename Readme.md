@@ -71,11 +71,6 @@ Check in browser on [http://localhost:5000/](http://localhost:5000/)
 
 ## App Info
 
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
 ### Version
 
 2.0.0
